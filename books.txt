@@ -1,0 +1,8 @@
+C Primer Plus;Stephen Prata;onshelf;Computer Science;QA76.73.C15.P91.6;Normal;10;9780321928429;
+Microelectronics;Jacob Millman, Arvin Grabel;onloan;EEE;TK7874.M65.2;Normal;13;9780071005968;
+The art of electronics;Paul Horowitz, Winfield Hill;onloan;EEE;TK7815.H81.3;Normal;18;9780521809269;
+Circuits, devices, and systems: a first course in electrical engineering;Ralph Smith, Richard Dorf;onshelf;EEE;TK145.S65.5;Normal;18;9780471839446;
+Electronic and electrical engineering: principles and practice;L.A.A. Warnes;onloan;EEE;TK7874.W27.3;Normal;11;333990404;
+Engineering Circuit Analysis;William Hayt, Jack Kemmerly, Steven Durbin;onloan;EEE;TK454.H42.8;Normal;12;9780071317061;
+Introduction to electric circuits;Richard Dorf, James Svoboda;onloan;EEE;TK454.D69.9;Normal;11;9781118321829;
+Modern Engineering Mathematics;Glyn James;onloan;Mathematics;TA330.J21.6;Normal;2;9781292335360;
